@@ -6,4 +6,4 @@
 */*.tar.gz
 */*.tar.xz
 */*.gem
-^*.tar.gz
+./*.tar.gz
