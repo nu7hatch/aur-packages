@@ -1,8 +1,9 @@
 *~
 \#*
 .\#*
-**/pkg
-**/src
-**/*.tar.gz
-**/*.tar.xz
-**/*.gem
+*/pkg
+*/src
+*/*.tar.gz
+*/*.tar.xz
+*/*.gem
+^*.tar.gz
